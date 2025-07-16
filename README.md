@@ -8,7 +8,7 @@
 4. [User Interface](#user-interface)
 5. [Results](#results)
 6. [Conclusion](#conclusion)
-7. [Referrences](#referrences)
+7. [References](#referrences)
 
 ## **Binary Classification of  Cancer Using Convolutional Neural Networks**
 **DISCLAIMER:
