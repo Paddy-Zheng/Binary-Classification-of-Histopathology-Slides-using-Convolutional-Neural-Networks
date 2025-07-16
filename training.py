@@ -1,4 +1,6 @@
-#This tool is for research/educational purposes only. Not for medical use.
+# This software is provided "as is", without warranty of any kind, express or implied.
+# It is intended for research and educational purposes only — not for medical or diagnostic use.
+# See the LICENSE file for full terms and conditions.
 import time 
 import os 
 from glob import glob 
