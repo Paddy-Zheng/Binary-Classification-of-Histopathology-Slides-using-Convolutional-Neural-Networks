@@ -45,20 +45,18 @@ However by epoch 10, we noticed a slow down in growth reaching an accuracy of 95
 Eventually after completing all epochs, we obtained a training accuracy of 96.30% 
 Our final test accuracy has shown us that our model generalizes very well to new images.
 
-<p align="center">
-  <!-- Table image -->
-  <img src="https://github.com/user-attachments/assets/eb52943a-67e7-4207-b8da-a63a56a6d77a" width="30%" />
-  
-  <!-- Accuracy graph -->
-  <img src="https://github.com/user-attachments/assets/73aa6533-f6ba-418e-b591-2ca298084e76" width="30%" />
-  
-  <!-- Loss graph -->
-  <img src="https://github.com/user-attachments/assets/37beb9f5-a61f-4232-a4ed-6df6caee2a2a" width="30%" />
-</p>
+
+<img width="626" height="128" alt="image" src="https://github.com/user-attachments/assets/eb52943a-67e7-4207-b8da-a63a56a6d77a" />
+
+				              Table 1: Training Results
 
 <p align="center">
-  <b>Table 1 & Figure 2: Training Results, Accuracy, and Loss Graphs</b>
+  <img src="https://github.com/user-attachments/assets/73aa6533-f6ba-418e-b591-2ca298084e76" width="45%" />
+  <img src="https://github.com/user-attachments/assets/37beb9f5-a61f-4232-a4ed-6df6caee2a2a" width="45%" />
 </p>
+
+
+				Figure 2: Training Loss and Accuracy Graphs
 
 This model was then saved to be used to train the remaining 20% of images, giving us an overall testing accuracy of 94.73%.
 
