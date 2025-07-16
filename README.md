@@ -27,9 +27,13 @@ Our images originate from the IDC dataset, available through Kaggle [13], introd
 
 ## Data Preprocessing
 To ensure optimal model performance, several preprocessing steps were applied to the raw images:
+
 Image Resizing: All images were resized to 224x224 pixels to maintain a consistent input size for the CNN.
+
 Color Normalization: All images were converted to RGB format when necessary to standardize color channels.
+
 Pixel Value Normalization: Pixel intensities were normalized to the range [-1,1] to stabilize and accelerate model convergence.
+
 Train-Test Split: The dataset was divided into 80% for training and 20% for testing using the random_split method to ensure unbiased performance evaluation on unseen data.
 
 ## User Interface
