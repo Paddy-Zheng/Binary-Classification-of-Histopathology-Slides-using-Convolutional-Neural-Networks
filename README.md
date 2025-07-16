@@ -1,4 +1,4 @@
-# Deep-Learning-Model-for-Animal-Image-Recognition
+# Binary Classification of Histopathology Slides using Convolutional Neural Networks
 
 
 
