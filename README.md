@@ -2,14 +2,14 @@
 
 
 ## **Table of Contents**
-1. [Project Objective](#project-objective)
-2. [Dataset Information](#dataset-information)
-3. [Data Preprocessing](#data-preprocessing)
-4. [User Interface](#user-interface)
-5. [Results](#results)
-6. [Conclusion](#conclusion)
-7. [References](#references)
-
+1. [Introduction](#introduction)
+2. [Project Objective](#project-objective)
+3. [Dataset Information](#dataset-information)
+4. [Data Preprocessing](#data-preprocessing)
+5. [User Interface](#user-interface)
+6. [Results](#results)
+7. [Conclusion](#conclusion)
+8. [References](#references)
 ## **Binary Classification of  Cancer Using Convolutional Neural Networks**
 **DISCLAIMER:
 This project is intended solely for educational and research purposes. It is not a certified medical diagnostic tool and should not be used for real-world medical decision-making or patient diagnosis. We do not accept any responsibility for misuse of this software in clinical or personal health contexts. Always consult a licensed medical professional for diagnosis and treatment decisions.**
