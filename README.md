@@ -55,8 +55,9 @@ Our final test accuracy has shown us that our model generalizes very well to new
 
 <!-- Two graphs spaced nicely below -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73aa6533-f6ba-418e-b591-2ca298084e76" width="40%" style="margin-right:20px;" />
-  <img src="https://github.com/user-attachments/assets/37beb9f5-a61f-4232-a4ed-6df6caee2a2a" width="40%" style="margin-left:20px;" />
+  <img src="https://github.com/user-attachments/assets/73aa6533-f6ba-418e-b591-2ca298084e76" width="40%" />
+  &nbsp;&nbsp;&nbsp; <!-- spacing between graphs -->
+  <img src="https://github.com/user-attachments/assets/37beb9f5-a61f-4232-a4ed-6df6caee2a2a" width="40%" />
 </p>
 
 <p align="center"><b>Figure 2: Training Loss and Accuracy Graphs</b></p>
