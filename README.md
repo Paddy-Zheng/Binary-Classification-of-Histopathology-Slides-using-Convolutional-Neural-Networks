@@ -1,7 +1,6 @@
 # Binary Classification of Histopathology Slides using Convolutional Neural Networks
 
 
-
 ## **Table of Contents**
 1. [Project Objective](#project-objective)
 2. [Dataset Information](#dataset-information)
