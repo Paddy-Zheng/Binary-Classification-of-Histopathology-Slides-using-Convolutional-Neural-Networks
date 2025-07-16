@@ -1,4 +1,4 @@
-
+#This tool is for research/educational purposes only. Not for medical use.
 import time 
 import os 
 from glob import glob 
