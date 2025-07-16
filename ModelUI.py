@@ -1,3 +1,4 @@
+#This tool is for research/educational purposes only. Not for medical use.
 import torch 
 from training import CNN 
 from torchvision import transforms 
