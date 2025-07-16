@@ -12,7 +12,15 @@
 8. [References](#references)
 ## **Binary Classification of  Cancer Using Convolutional Neural Networks**
 **DISCLAIMER:
-This project is intended solely for educational and research purposes. It is not a certified medical diagnostic tool and should not be used for real-world medical decision-making or patient diagnosis. We do not accept any responsibility for misuse of this software in clinical or personal health contexts. Always consult a licensed medical professional for diagnosis and treatment decisions.**
+## ⚠️ Disclaimer & License
+
+This project is released under the MIT License – see [LICENSE](LICENSE).
+
+**Disclaimer:**  
+This software is provided “as‑is”, without warranty of any kind, express or implied. In no event shall the authors be liable for any claim, damages, or other liability arising from its use.
+
+**Medical use notice:**  
+This tool is intended solely for research and educational purposes. It is *not* intended for clinical diagnosis or treatment. Users should not rely on it for medical decisions and should always consult a qualified pathologist or healthcare provider.
 ## Introduction
 Cancer remains one of the most deadly diseases globally, and early diagnosis is often a critical factor in determining patient outcomes. With increasing availability in medical datasets, machine learning has shown immense promise in assisting medical teams in fields such as dermatology [8]. This project investigates binary image classification using a convolution neural network (CNN) to identify the presence of cancer in histopathology slides.
 
