@@ -7,9 +7,9 @@
 2. [Dataset Information](#dataset-information)
 3. [Data Preprocessing](#data-preprocessing)
 4. [User Interface](#user-interface)
-5. [Results](#model-development-and-methodology)
-6. [Conclusion](#evaluation-metrics)
-7. [Referrences](#results)
+5. [Results](#results)
+6. [Conclusion](#conclusion)
+7. [Referrences](#referrences)
 
 ## **Binary Classification of  Cancer Using Convolutional Neural Networks**
 **DISCLAIMER:
