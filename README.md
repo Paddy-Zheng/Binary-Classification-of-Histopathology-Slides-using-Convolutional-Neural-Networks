@@ -11,7 +11,6 @@
 7. [Conclusion](#conclusion)
 8. [References](#references)
 ## **Binary Classification of  Cancer Using Convolutional Neural Networks**
-**DISCLAIMER:
 ## ⚠️ Disclaimer & License
 
 This project is released under the MIT License – see [LICENSE](LICENSE).
